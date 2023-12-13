@@ -7,9 +7,7 @@ Welcome to the Bootstrap Image Gallery, a versatile and visually appealing HTML 
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
 - [Features](#features)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
