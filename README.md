@@ -8,9 +8,7 @@ Welcome to the Bootstrap Image Gallery, a versatile and visually appealing HTML 
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
 - [Features](#features)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
@@ -27,6 +25,7 @@ To get started with the Bootstrap Image Gallery, follow these steps:
    git clone https://github.com/your-username/bootstrap-image-gallery.git
 - Open index.html:
 Open the index.html file in your preferred web browser to view the gallery.
+   ```
 
 ## Features
 - Responsive Design:
