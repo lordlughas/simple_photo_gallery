@@ -2,6 +2,7 @@
 
 Welcome to the Bootstrap Image Gallery, a versatile and visually appealing HTML gallery template. This template is designed to showcase your images in a modern and mobile-friendly way. Whether you're building a personal website or enhancing your project, this gallery is customizable and easy to use.
 
+![gallery snapshot](images/images_gallery_snapshot.PNG)
 ## Table of Contents
 
 - [Introduction](#introduction)
